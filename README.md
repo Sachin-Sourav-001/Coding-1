@@ -5,9 +5,11 @@ Author - Sachin Sourav.
 <br>
 // Guess my Number Game(JAVA).
 <br>
-import java.util.Scanner;
 
-class Game{
+
+    import java.util.Scanner;
+
+    class Game{
 
     public static void main(String[] args ){
         Scanner sc = new Scanner(System.in);
